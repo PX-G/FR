@@ -1,4 +1,4 @@
-# Family secret recipes
+# PS'S Family secret recipes
 
 Set of recipes as given by my grandma.
 
